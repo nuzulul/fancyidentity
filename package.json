@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "fancyidentity-repo",
+  "version": "0.0.1",
+  "description": "Fancy identity widget alternative to Netlify Identity widget",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify-identity",
+    "netlify-identity-widget",
+    "netlify",
+    "netlify-cms",
+    "netlifycms",
+    "decap",
+    "decap-cms",
+    "decapcms"
+  ],
+  "author": "Nuzulul Zulkarnain",
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+}

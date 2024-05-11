@@ -1,0 +1,29 @@
+{
+  "name": "fancyidentity",
+  "version": "0.0.1",
+  "description": "Fancy identity widget alternative to Netlify Identity widget",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuzulul/fancyidentity.git"
+  },
+  "keywords": [
+    "netlify-identity",
+    "netlify-identity-widget",
+    "netlify",
+    "netlify-cms",
+    "netlifycms",
+    "decap",
+    "decap-cms",
+    "decapcms"
+  ],
+  "author": "Nuzulul Zulkarnain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuzulul/fancyidentity/issues"
+  },
+  "homepage": "https://github.com/nuzulul/fancyidentity#readme"
+}
